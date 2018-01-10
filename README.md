@@ -1,4 +1,4 @@
-# GraphCMS Issue Tracker
+# GraphCMS Issue Tracker [![Slack Status](https://slack.graphcms.com/badge.svg)](https://slack.graphcms.com)
 
 ## Found an issue?
 
